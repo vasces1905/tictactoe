@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//ycanli
 public class Main
 {
     public static void main(String[] args)
@@ -12,7 +12,9 @@ public class Main
      
         board.printBoard();
         board.symbolOfPlayer();
-      //  board.placeToken(0, 0, 0);
+
+
+        //  board.placeToken(0, 0, 0);
 
        // board[0][2] = " X |";
         
